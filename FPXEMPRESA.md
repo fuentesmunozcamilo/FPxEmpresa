@@ -6,7 +6,7 @@ Bienvenidos a las Jornadas de Innovación Tecnológica, un evento dedicado a exp
 
 ## 📊 Infografía: Estructura del Evento
 
-![Infografía del evento](FPXEMPRESA/4_DevOps_Infography.png)
+![Infografía del evento](4_DevOps_Infography.png)
 
 La infografía muestra la organización de las jornadas: desde las ponencias magistrales hasta los talleres prácticos y zonas de networking. Es una representación visual clara que resume toda la experiencia que vivirás durante los días del evento.
 
@@ -14,7 +14,7 @@ La infografía muestra la organización de las jornadas: desde las ponencias mag
 
 ## ☁️ Nube de Conceptos: Palabras Clave
 
-![Nube de conceptos](FPXEMPRESA/5_WordCloud.png)
+![Nube de conceptos](5_WordCloud.png)
 
 Esta nube de palabras refleja los temas principales que se tratarán durante las jornadas: innovación, IA, sostenibilidad, accesibilidad, desarrollo web, diseño UX/UI, entre otros. Es el reflejo de los intereses comunes de los asistentes y ponentes.
 
@@ -22,7 +22,7 @@ Esta nube de palabras refleja los temas principales que se tratarán durante las
 
 ## 🎨 Logotipo Oficial de las Jornadas
 
-![Logotipo oficial](FPXEPRESA/Logo_FpxEmpresa.png)
+![Logotipo oficial](Logo_FpxEmpresa.png)
 
 El logotipo ha sido diseñado para transmitir modernidad, tecnología y colaboración. Es el símbolo representativo del espíritu de estas jornadas, y estará presente en todos los materiales promocionales y recursos digitales.
 
